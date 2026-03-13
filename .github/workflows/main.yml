@@ -8,7 +8,7 @@ on:
         required: true
         default: 'zabillions'
       agent_description:
-        description: 'zabillionsd'
+        description: 'zabillions'
         required: true
         default: 'zabillions'
 
